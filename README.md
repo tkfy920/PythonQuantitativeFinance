@@ -14,7 +14,7 @@
 
 首先，结合个人经验分享Python金融量化的学习路径，以及分享Python从入门、进阶、到高阶的学习资料，以及金融投资相关书籍（PDF）。
 
-1.1【Python金融量化】零基础如何开始学？
+[1.1【Python金融量化】零基础如何开始学？](https://mp.weixin.qq.com/s?__biz=MzUyMDk1MDY2MQ==&mid=2247483886&idx=1&sn=9a420312aff2bb9b8cbb549a54cc876c&chksm=f9e3c704ce944e1238b291937a7184658d5fcba35041f8857b674ff719b81e6b6ef5d8427e1f&scene=21#wechat_redirect)
 
 1.2【推荐收藏】倾心整理的Python量化资源大合集
 
