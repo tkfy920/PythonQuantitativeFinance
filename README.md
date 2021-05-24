@@ -2,6 +2,8 @@
 # Python金融量化
 专注于分享Python在金融领域的应用，欢迎关注微信公众号Python金融量化 （id：tkfy920）
 
+[Python金融量化合辑](https://mp.weixin.qq.com/s?__biz=MzUyMDk1MDY2MQ==&amp;mid=2247485222&amp;idx=1&amp;sn=2dea3290b617f0f84410bd4da21e0221&amp;chksm=f9e3c1ccce9448da6bc1dad87c014749c507466b07d2fcf9086d84674b4c4ce9bce748bc6469&token=1911472750&lang=zh_CN#rd)
+
 公众号“Python金融量化”已走过两个年头。这一路走来非常感谢读者的支持，尤其是知识星球圈友，你们的知识付费是我坚持走原创输出的动力。学习是一个循序渐进的过程，只有通过不断的总结才能形成系统的知识框架。通过对两年来发布的60篇原创文章进行梳理，归纳成四个大的部分，包括Python入门篇 、金融数据篇、量化分析篇和策略回测篇 ，形成了较为完整的框架体系。本公众号文章的最大特色是以金融场景+案例形式切入，分享Python在金融量化领域的应用，实战性强，为在校经管类学生和金融从业者提供了丰富的实践分析案例。
 
 
@@ -12,7 +14,7 @@
 
 首先，结合个人经验分享Python金融量化的学习路径，以及分享Python从入门、进阶、到高阶的学习资料，以及金融投资相关书籍（PDF）。
 
-1.1【Python金融量化】零基础如何开始学？https://mp.weixin.qq.com/s?__biz=MzUyMDk1MDY2MQ==&mid=2247483886&idx=1&sn=9a420312aff2bb9b8cbb549a54cc876c&chksm=f9e3c704ce944e1238b291937a7184658d5fcba35041f8857b674ff719b81e6b6ef5d8427e1f&scene=21#wechat_redirect
+1.1【Python金融量化】零基础如何开始学？
 
 1.2【推荐收藏】倾心整理的Python量化资源大合集
 
