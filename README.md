@@ -1,3 +1,4 @@
+![扫码_搜索联合传播样式-标准色版](https://user-images.githubusercontent.com/24394838/119312678-3e8d3780-bca5-11eb-8b8e-41832426b435.png)
 # Python金融量化
 专注于分享Python在金融领域的应用，欢迎关注微信公众号Python金融量化 （id：tkfy920）
 
@@ -171,3 +172,5 @@ TA-Lib与股票技术分析：
 4.19【手把手教你】用backtrader量化回测海龟交易策略
 
 4.20 backtrader股票技术指标自定义与量化回测
+
+更多干货请关注微信公众号：Python金融量化
